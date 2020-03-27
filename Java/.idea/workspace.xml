@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f7572450-4fca-4247-9d3f-8fea67931031" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/JavaStdinAndStdoutI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/JavaStdinAndStdoutI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction/WelcomeToJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction/WelcomeToJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +33,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.JavaIfElse">
+  <component name="RunManager" selected="Application.JavaStdinAndStdoutII">
     <configuration name="JavaIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Introduction.JavaIfElse" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaStdinAndStdoutII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Introduction.JavaStdinAndStdoutII" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -64,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaStdinAndStdoutII" />
         <item itemvalue="Application.JavaIfElse" />
         <item itemvalue="Application.WelcomeToJava" />
       </list>
@@ -91,22 +103,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1700" y="275" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1585334769576" />
-    <state width="1234" height="279" key="GridCell.Tab.0.bottom" timestamp="1585343027330">
+    <state width="1234" height="279" key="GridCell.Tab.0.bottom" timestamp="1585343418038">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1585343027330" />
-    <state width="1234" height="279" key="GridCell.Tab.0.center" timestamp="1585343027330">
+    <state width="1234" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1585343418038" />
+    <state width="1234" height="279" key="GridCell.Tab.0.center" timestamp="1585343418038">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="279" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1585343027330" />
-    <state width="1234" height="279" key="GridCell.Tab.0.left" timestamp="1585343027330">
+    <state width="1234" height="279" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1585343418038" />
+    <state width="1234" height="279" key="GridCell.Tab.0.left" timestamp="1585343418037">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="279" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1585343027330" />
-    <state width="1234" height="279" key="GridCell.Tab.0.right" timestamp="1585343027330">
+    <state width="1234" height="279" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1585343418037" />
+    <state width="1234" height="279" key="GridCell.Tab.0.right" timestamp="1585343418038">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1234" height="279" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1585343027330" />
+    <state width="1234" height="279" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1585343418038" />
     <state x="1729" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585342989410">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
